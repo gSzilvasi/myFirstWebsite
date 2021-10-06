@@ -114,7 +114,15 @@ p{
     line-height: 30px;
     margin-bottom:20px;
 }
-
+. github p {text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(66, 63, 59);
+    font-weight: 100;
+    letter-spacing: 8px;
+    font-size: 26px;
+    line-height: 30px;
+    margin-bottom:20px;
+} 
 a{
     text-decoration: none;
     color: rgb(83, 19, 0);
