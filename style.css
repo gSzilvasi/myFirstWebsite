@@ -236,7 +236,7 @@ padding-inline-start: 10px;
   justify-content: center;} 
 ul li{
    
-  font-size:18px; 
+  font-size:15px; 
   display:inline-block;
   letter-spacing: 2px;
   padding-left: 10px;
@@ -248,6 +248,10 @@ margin-bottom:5px;
 text-align:center;
 
     }
+	ul {
+
+    padding-inline-start: 10px;
+}
   }
   
   @media only screen and (max-width: 500px) {
