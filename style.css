@@ -226,7 +226,7 @@ height: 35px;}
 ul li{
    
   font-size:18px; 
-  
+  display:inline-block;
   letter-spacing: 2px;
   padding-left: 10px;
   padding-right: 10px;
