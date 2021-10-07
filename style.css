@@ -165,7 +165,7 @@ a{
   }
 
 .info {
-margin:30 10 30 10;
+margin:50 10 50 10;
 background-color: rgba(173, 226, 148, 0.246);
 padding:5 5 5 5;
 border:1px;
@@ -219,7 +219,7 @@ div.gallery {
     .responsive {
       width: 49.99999%;
       margin: 6px 0;} 
-.container{padding-left: 1%;
+.container{padding-left:1px;
 
   padding-right: 1%;} 
 .logo img{
@@ -245,7 +245,7 @@ ul li{
   padding-top: 2px;
   padding-bottom: 2px;
   margin-left: 5px;
-margin-bottom:5px;
+margin-top:10px;
 text-align:center;
 
     }
