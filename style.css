@@ -225,6 +225,8 @@ div.gallery {
   margin-right: auto;
   width: 50%;
 } 
+.logo{display: flex;
+  justify-content: center;} 
 ul li{
    
   font-size:18px; 
