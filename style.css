@@ -220,9 +220,11 @@ div.gallery {
 .container{padding-left: 1%;
 
   padding-right: 1%;} 
-.logo img{
-max-width: auto;
-height: 35px;} 
+.logo img{display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} 
 ul li{
    
   font-size:18px; 
